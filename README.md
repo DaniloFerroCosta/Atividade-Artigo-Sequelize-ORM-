@@ -1,0 +1,1 @@
+"# Atividade-Artigo-Sequelize-ORM-" 
